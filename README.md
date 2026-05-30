@@ -1,5 +1,7 @@
 # Kazakh Punctuation Restoration — WISH Hackathon
 
+[Открыть notebook с результатами](https://eclipsen8.github.io/KazPunch/genielablast%20(2).html)
+
 This repository contains a solution for the **WISH Hackathon** (Kaggle competition) focused on restoring punctuation marks in Kazakh language texts.
 
 ## 📌 Task Overview
